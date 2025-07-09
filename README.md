@@ -16,7 +16,7 @@ This project recreates the [official React documentation](https://react.dev/) us
 - Hosted using [GitBook](https://www.gitbook.com/).
 
 ## 📝 Docs Structure Example
-
+```
 react-docs-gitbook/
 ├── README.md
 ├── quick-start/
@@ -29,3 +29,4 @@ react-docs-gitbook/
 │   ├── adding-interactivity.md
 │   ├── managing-state.md
 │   └── escape-hatches.md
+```
