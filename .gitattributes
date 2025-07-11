@@ -1,0 +1,10 @@
+﻿# Auto-detect text files and normalize to LF
+* text=auto eol=lf
+
+# Explicitly handle Windows-specific files
+*.{cmd,[cC][mM][dD]} text eol=crlf
+*.{bat,[bB][aA][tT]} text eol=crlf
+
+# Binary files should remain untouched
+*.svg binary
+*.png binary

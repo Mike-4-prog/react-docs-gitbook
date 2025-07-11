@@ -1,0 +1,17 @@
+﻿/* Custom GitBook styles for React docs */
+.markdown-section pre {
+  background: #f6f8fa;
+  border-radius: 6px;
+  padding: 16px;
+}
+
+.markdown-section h1 {
+  color: #61dafb;
+  border-bottom: 1px solid #eee;
+}
+
+.interactive-code {
+  margin: 20px 0;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
